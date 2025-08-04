@@ -1,2 +1,2 @@
 # CTF2025
-Write-up for CTF in 2025
+Solution for CTF in 2025
